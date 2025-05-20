@@ -1,4 +1,4 @@
-# yt-audio-archiver
+# personal-music-saver
 
 📥 **Python CLI tool for searching and downloading audio from public YouTube videos**, for personal archiving and educational purposes.
 
